@@ -11,6 +11,13 @@ p {
     font-family: fantasy, sans-serif;
     text-align: left;
 }
+
 h2 {
     color: deeppink;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    text-align: center;
 }
